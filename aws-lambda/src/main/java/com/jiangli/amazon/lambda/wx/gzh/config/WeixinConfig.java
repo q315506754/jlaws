@@ -11,4 +11,5 @@ public class WeixinConfig {
 
     public static final String WX_NUM = "changshajiangli";
     public static final String token2="e046d0ba430e67682eec66ff5f353beb";
+    //public static final String token2="4eef1ccf4de5da5c442b0ef6155e85b7";
 }
